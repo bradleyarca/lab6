@@ -14,6 +14,8 @@
 	background: none;
 }
 
+
+
 .jumbotron:after {
      content:"";
      background: url("../images/lorempixel.jumbotron.jpeg");
@@ -28,6 +30,10 @@
 
 .jumbotron p {
      color: #6e6e6e;
+}
+
+.name {
+     
 }
 
 .project a {
